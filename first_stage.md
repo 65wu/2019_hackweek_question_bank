@@ -111,7 +111,7 @@ ___
 `print('{} {}'.format('Hello','World'))`或
 `print('{} {}'.format("Hello","World"))`或
 `print('{} {}'.format("Hello",'World'))`或
-`print('{} {}'.format('Hello","World'))`)
+`print('{} {}'.format('Hello',"World"))`)
 ___
 ## 困难难度
 1.下面哪条python输出语句没有语法错误?(A)
@@ -133,6 +133,7 @@ ___
 `print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)`
 + sep
 	在输出字符串之间插入指定字符串，默认是空格
+	
 	样例输入：
 				
 				print("n","c","u","n","b",sep="-")
