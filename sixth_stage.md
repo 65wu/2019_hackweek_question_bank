@@ -117,7 +117,7 @@ def hello_world():
 	print("Hello,World")
 ```
 def 声明用户自定义函数， hello_world为函数名,方括号为空说明无参数，函数体为`print("Hello,World")`
-4.下列函数定义合法的是？
+4.下列函数定义合法的是？(D)
 A.
 ```
 define first():
